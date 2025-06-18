@@ -325,7 +325,7 @@ section h2::after {
 }
 
 .full-width-image img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.15);
