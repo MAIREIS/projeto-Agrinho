@@ -101,7 +101,7 @@ header nav ul li a.active {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(231, 3, 3, 0.89); /* Overlay escuro para contraste */
+    background: rgba(116, 109, 109, 0.89); /* Overlay escuro para contraste */
 }
 
 .hero-content {
