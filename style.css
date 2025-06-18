@@ -6,7 +6,7 @@
     --cor-primaria: #2E7D32; /* Verde Escuro - Remete ao campo */
     --cor-secundaria: #59aa4f; /* Azul Índigo - Remete ao urbano/moderno */
     --cor-neutra-clara: #F8F8F8;
-    --cor-neutra-escura: #91818133;
+    --cor-neutra-escura: #554d4da9;
     --cor-destaque: #94e092; /* Amarelo Âmbar - Para botões/destaques */
     --cor-texto: #444;
     --fonte-titulo: 'Lora', serif;
@@ -39,7 +39,7 @@ header {
     color: var(--cor-neutra-clara);
     padding: 20px 0;
     text-align: center;
-    box-shadow: 0 2px 5px rgba(255, 254, 254, 0.2);
+    box-shadow: 0 2px 5px rgba(128, 124, 124, 0.2);
 }
 
 header h1 {
